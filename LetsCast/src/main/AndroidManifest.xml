@@ -23,5 +23,9 @@
             </intent-filter>
         </activity>
     </application>
+    
+    <instrumentation
+            android:name="com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner"
+            android:targetPackage="com.jorgecoca.letscast"/>
 
 </manifest>
