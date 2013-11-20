@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/LetsCast/libs/espresso-1.0.SNAPSHOT-bundled/jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

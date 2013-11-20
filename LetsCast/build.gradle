@@ -38,5 +38,5 @@ dependencies {
     compile "com.android.support:appcompat-v7:18.0.+"
     compile "com.android.support:mediarouter-v7:18.0.+"
     compile files('libs/GoogleCastSdkAndroid.jar')
-    instrumentTestCompile files('libs/espresso-1.0.SNAPSHOT-bundled/jar')
+    instrumentTestCompile files('libs/espresso-1.0-SNAPSHOT-bundled.jar')
 }
